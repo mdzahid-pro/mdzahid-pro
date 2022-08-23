@@ -34,7 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzahid-pro&show_icons=true&locale=en" alt="mdzahid-pro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahid-pro&" alt="mdzahid-pro" /></p>
-<table>
+<table width="100%">
   <thead align="center">
     <tr>
       <td><b>Project Title</b></td>
