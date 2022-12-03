@@ -43,12 +43,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://bytesed.com/laravel/zaika/" rel="nofollow">Zaika</a></td>
-      <td>Zaika eCommerce CMS</td>
+      <td><a href="https://shopmartecommerce.com/" rel="nofollow">Shopmart</a></td>
+      <td>Shopmart Laravel eCommerce</td>
     </tr>
     <tr>
       <td><a href="https://xgenious.com/laravel/grenmart/" rel="nofollow">Grenmart</a></td>
       <td>Grenmart Laravel eCommerce</td>
+    </tr>
+    <tr>
+      <td><a href="https://bytesed.com/laravel/zaika/" rel="nofollow">Zaika</a></td>
+      <td>Zaika eCommerce CMS</td>
     </tr>
     <tr>
       <td><a href="Javascript:void(0)" rel="nofollow">Hotel Management System</a></td>
@@ -59,7 +63,7 @@
       <td>Document and percel service</td>
     </tr>
     <tr>
-      <td><a href="Javascript:void(0)" rel="nofollow">BWBD</a></td>
+      <td><a href="https://www.bwdb.gov.bd/" rel="nofollow">BWBD</a></td>
       <td>Bangladesh Water Development Board</td>
     </tr>
     
