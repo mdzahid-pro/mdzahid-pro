@@ -43,6 +43,10 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://safecart.bytesed.com/" rel="nofollow">Safecart</a></td>
+      <td>Safecart multi-vendor Laravel eCommerce</td>
+    </tr>
+    <tr>
       <td><a href="https://shopmartecommerce.com/" rel="nofollow">Shopmart</a></td>
       <td>Shopmart Laravel eCommerce</td>
     </tr>
