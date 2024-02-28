@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Zahidul Islam</h1>
-<h3 align="center">I am a full-stack web developer having several years of experience in web development with PHP, Laravel, and JavaScript. My strengths in my dedication to work and content creator on youtube.</h3>
+<h3 align="center">Greetings! With over 4 years of dedicated experience in full-stack web development, I'm proficient in PHP, Laravel, JavaScript, React, Vue.js, CSS, and more. From building robust back-end systems to creating stunning frontends, and crafting bespoke e-commerce solutions, I'm equipped to handle it all. Additionally, I'm a passionate content creator on YouTube, sharing valuable insights and tutorials related to web development. Let's collaborate and bring your projects to life with creativity and expertise!
+
+
+
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzahid-pro&label=Profile%20views&color=0e75b6&style=flat" alt="mdzahid-pro" /> </p>
 
