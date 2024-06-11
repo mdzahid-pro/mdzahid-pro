@@ -40,8 +40,8 @@
 
 <p align="center">
 <a href="https://github.com/AbulHossain-Adnan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbulHossain-Adnan&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbulHossain-Adnan&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdzahid-pro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdzahid-pro&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
   
