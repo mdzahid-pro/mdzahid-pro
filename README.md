@@ -79,5 +79,13 @@
   </tbody>
 </table>
 
+  
+📊 Statistics
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdzahid-pro&theme=dracula)](https://github.com/mdzahid-pro/github-readme-activity-graph)
+<p align="center">
+<a href="https://github.com/AbulHossain-Adnan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbulHossain-Adnan&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbulHossain-Adnan&layout=compact&langs_count=8&theme=gotham"/>
+</a>
+</p>
+  
