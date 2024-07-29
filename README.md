@@ -46,7 +46,7 @@
 </p>
   
 
-<p><img width="100%" height="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahid-pro&theme=transparent&exclude_days=Fri" alt="mdzahid-pro" /></p>
+<p><img width="100%" height="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahid-pro&exclude_days=Fri" alt="mdzahid-pro" /></p>
 
 <table width="100%">
   <thead align="center">
