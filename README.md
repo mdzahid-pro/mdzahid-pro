@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td><a href="http://unitedexpress.com.bd/" rel="nofollow">United Express</a></td>
-      <td>Document and percel service</td>
+      <td>Document and parcel service</td>
     </tr>
     <tr>
       <td><a href="https://www.bwdb.gov.bd/" rel="nofollow">BWBD</a></td>
