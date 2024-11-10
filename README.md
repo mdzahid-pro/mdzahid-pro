@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Zahidul Islam</h1>
-<h3 align="center">Greetings! With over 4 years of dedicated experience in full-stack web development, I'm proficient in PHP, Laravel, JavaScript, React, Vue.js, CSS, and more. From building robust back-end systems to creating stunning frontends, and crafting bespoke e-commerce solutions, I'm equipped to handle it all. Additionally, I'm a passionate content creator on YouTube, sharing valuable insights and tutorials related to web development. Let's collaborate and bring your projects to life with creativity and expertise!
-
-
-
-
-</h3>
+<h4 align="center">
+  Experienced full-stack web developer with 4+ years of expertise in PHP, Laravel, JavaScript, React, Vue.js, and CSS. I specialize in building efficient back-end systems, dynamic front-ends, and custom e-commerce solutions, including a developed Shopify app. As a passionate content creator on YouTube, I share valuable web development tutorials and insights. Let's collaborate to bring innovative projects to life!
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzahid-pro&label=Profile%20views&color=0e75b6&style=flat" alt="mdzahid-pro" /> </p>
 
