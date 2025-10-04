@@ -1,87 +1,43 @@
-<h1 align="center">Hi 👋, I'm Md Zahidul Islam</h1>
-<h4 align="center">
-  Experienced full-stack web developer with 4+ years of expertise in PHP, Laravel, JavaScript, React, Vue.js, and CSS. I specialize in building efficient back-end systems, dynamic front-ends, and custom e-commerce solutions, including a developed Shopify app. As a passionate content creator on YouTube, I share valuable web development tutorials and insights. Let's collaborate to bring innovative projects to life!
-</h4>
+# **Md Zahidul Islam | Senior Full-Stack Engineer & Team Lead**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdzahid-pro&label=Profile%20views&color=0e75b6&style=flat" alt="mdzahid-pro" /> </p>
+👋 Hello\! I'm a highly accomplished Senior Full-Stack Engineer and Team Lead specializing in architecting and scaling complex web applications, particularly in the E-commerce and SAAS domains. I drive projects from conceptual design through deployment, focusing on performance, clean code, and technical leadership.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdzahid-pro" alt="mdzahid-pro" /></a> </p>
+## **🚀 Professional Summary**
 
-<p align="left"> <a href="https://twitter.com/mdzahid23520248" target="blank"><img src="https://img.shields.io/twitter/follow/mdzahid23520248?logo=twitter&style=for-the-badge" alt="mdzahid23520248" /></a> </p>
+**Highly accomplished Senior Full-Stack Engineer and Team Lead** adept at driving large-scale projects across diverse domains, including **Shopify App Development**, E-commerce (SAAS & Multi-Vendor), and Government platforms. Master in **performance engineering** (query optimization, big data processing up to **billions of records**), **technical leadership**, and versatile development across **Laravel**, **CodeIgniter**, MySQL, and Oracle. Successfully architected and launched major applications for both enterprise and public service.
 
-- 🔭 I’m currently work for [Xgenious](https://xgenious.com)
+## **🛠️ Core Technical Expertise**
 
-- 🌱 I’m currently learning **VueJS**
+My expertise spans the full stack, with a focus on scalable, data-heavy systems:
 
-- 📝 I regularly create Tutorial on Youtube [https://www.youtube.com/channel/UCUQreTokXbCJPpDnY1aaTJQ](https://www.youtube.com/channel/UCUQreTokXbCJPpDnY1aaTJQ)
+| Category | Key Skills |
+| :---- | :---- |
+| **Backend & Core** | **Laravel**, PHP 8.x, CodeIgniter, Node.js, RESTful APIs, **GraphQL** |
+| **Databases** | MySQL, **PostgreSQL**, Oracle, Redis (Caching & Queuing) |
+| **SAAS & E-commerce** | **Shopify App Development**, Multi-Tenancy Architecture, POS & Booking Systems, Multi-Vendor Platforms |
+| **DevOps & Scaling** | Docker, Nginx, CI/CD Implementation, Git, **Big Data Handling** (Billions of Records) |
+| **Frontend** | React, Next.js, Vue.js, TailwindCSS |
 
-- 💬 Ask me about **PHP, Laravel, JavaScript, ReactJS**
+## **💡 FEATURED PORTFOLIO PROJECTS**
 
-- 📫 How to reach me **mdzahid.pro@gmail.com**
+A selection of high-scale E-commerce, SAAS, and enterprise applications developed or led, demonstrating expertise in complex systems architecture and optimization.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mdzahid23520248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdzahid23520248" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdzahidpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdzahidpro" height="30" width="40" /></a>
-<a href="https://fb.com/devzahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devzahid" height="30" width="40" /></a>
-<a href="https://instagram.com/devzahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devzahid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@devzahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code reader" height="30" width="40" /></a>
-</p>
+| Project Title | Description |
+| :---- | :---- |
+| [ReportGenix](https://apps.shopify.com/reportgenix-sales-analytics) | **Advanced Sales Analytics Shopify App.** Engineered data pipelines to handle **billions of data records** and directed query optimization for high-volume, low-latency reporting. |
+| [Popgenix (Pre-Order & Pop-ups)](https://www.google.com/search?q=https://apps.shopify.com/popgenix-pop-ups-banners) | **Project Lead & DevOps Manager** for this public-facing Shopify app, focusing on high availability, rapid deployment, and deep storefront integration. |
+| [Nazmart (Multi-Tenancy SAAS)](https://codecanyon.net/item/nazmart-multitenancy-ecommerce-platform-saas/42802410) | **Laravel SAAS E-commerce Platform.** Developed core modules, including the comprehensive **Point-of-Sale (POS)** and **Booking Management System** for multiple tenants. |
+| [Multisass](https://codecanyon.net/item/multisass-multitenancy-multipurpose-website-builder-sass/41892997) | **Multipurpose Website Builder SAAS.** Contributed to core platform architecture and multi-tenancy logic, enabling clients to build custom websites. |
+| [Safecart](https://safecart.bytesed.com/) | **Multi-Vendor Laravel E-commerce.** Built platform featuring vendor onboarding, commission management, and real-time notification systems. |
+| [Grenmart](https://xgenious.com/laravel/grenmart/) | **Organic Grocery E-commerce.** Specialized Laravel platform featuring variable-weight product handling and delivery slot scheduling. |
+| [Zaika](https://bytesed.com/laravel/zaika/) | **E-commerce Shopping Platform.** Developed from scratch, focusing on a responsive design and integrated payment gateway system. |
+| [United Express](http://unitedexpress.com.bd/) | **Courier Service Management System.** Designed and implemented the full logistics, parcel tracking, and operational management system using CodeIgniter. |
+| [BWDB](https://www.bwdb.gov.bd/) | **Bangladesh Water Development Board Application.** Developed the data-heavy government service platform from scratch using CodeIgniter and Oracle. |
+| [Shopmart](https://shopmartecommerce.com/) | Shopmart Laravel E-commerce. Full-featured single-vendor shopping platform. |
+| [Hotel Management System](https://www.google.com/search?q=Javascript:void\(0\)) | Internal enterprise system covering booking, inventory, and resource management. |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## **🤝 Connect with Me**
 
-
-  
-📊 Statistics
-
-<p align="center">
-<a href="https://github.com/mdzahid-pro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdzahid-pro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdzahid-pro&layout=compact&langs_count=8&theme=gotham"/>
-</a>
-</p>
-  
-
-<p><img width="100%" height="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahid-pro&exclude_days=Fri" alt="mdzahid-pro" /></p>
-
-<table width="100%">
-  <thead align="center">
-    <tr>
-      <td><b>Project Title</b></td>
-      <td><b>Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://safecart.bytesed.com/" rel="nofollow">Safecart</a></td>
-      <td>Safecart multi-vendor Laravel eCommerce</td>
-    </tr>
-    <tr>
-      <td><a href="https://shopmartecommerce.com/" rel="nofollow">Shopmart</a></td>
-      <td>Shopmart Laravel eCommerce</td>
-    </tr>
-    <tr>
-      <td><a href="https://xgenious.com/laravel/grenmart/" rel="nofollow">Grenmart</a></td>
-      <td>Grenmart Laravel eCommerce</td>
-    </tr>
-    <tr>
-      <td><a href="https://bytesed.com/laravel/zaika/" rel="nofollow">Zaika</a></td>
-      <td>Zaika eCommerce CMS</td>
-    </tr>
-    <tr>
-      <td><a href="Javascript:void(0)" rel="nofollow">Hotel Management System</a></td>
-      <td>Hotel Management System</td>
-    </tr>
-    <tr>
-      <td><a href="http://unitedexpress.com.bd/" rel="nofollow">United Express</a></td>
-      <td>Document and parcel service</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.bwdb.gov.bd/" rel="nofollow">BWBD</a></td>
-      <td>Bangladesh Water Development Board</td>
-    </tr>
-    
-  </tbody>
-</table>
-
+* **LinkedIn:** [linkedin.com/in/devzahid](https://www.google.com/search?q=https://www.linkedin.com/in/devzahid)  
+* **Email:** mdzahidul.pro@gmail.com  
+* **Portfolio/Blog:** \[Your Personal Website URL Here\]
