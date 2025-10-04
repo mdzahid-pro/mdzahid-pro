@@ -38,6 +38,6 @@ A selection of high-scale E-commerce, SAAS, and enterprise applications develope
 
 ## **🤝 Connect with Me**
 
-* **LinkedIn:** [linkedin.com/in/devzahid](https://www.google.com/search?q=https://www.linkedin.com/in/devzahid)  
-* **Email:** mdzahidul.pro@gmail.com  
-* **Portfolio/Blog:** \[Your Personal Website URL Here\]
+* **LinkedIn:** [linkedin.com/in/devzahid](https://www.google.com/search?q=https://www.linkedin.com/in/devzahid)
+* **Youtube:** [youtube.com/@devzahid](https://youtube.com/@devzahid)
+* **Email:** mdzahidul.pro@gmail.com
